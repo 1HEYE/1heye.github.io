@@ -17,7 +17,6 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Revised Version:
 I am an undergraduate student in Economics at Antai College of Economics and Management, Shanghai Jiao Tong University. I will participate in an exchange program at Bocconi University starting in August 2025 and am currently applying to Economics PhD programs.
 
 My research interests lie in environmental, development, and agricultural economics. My recent work includes:
@@ -25,7 +24,7 @@ My research interests lie in environmental, development, and agricultural econom
 (2) Investigating how AI policies impact labor markets.
 
 
-# 🔥 working paper
+# 🔥 Working Paper
 - Climate Change and Land Rental Market: Evidence From China Rural households
 
 
